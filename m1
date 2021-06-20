@@ -1,0 +1,20 @@
+cat>m1
+git labs
+cat m1
+git status
+clear
+clear
+q
+clear
+git status
+
+
+
+
+
+
+cd..
+git status
+cd.
+git status
+git commit add.
